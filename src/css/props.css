@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.fixed{
+    position: fixed;
+}
+.flex{
+    display: flex;
+}
+.bl{
+    display: block;
+}
+.noul{
+    text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: normal;
+}
+ul,ol{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.c333{
+    color: #333;
+}
+.s18{
+    font-size: 18px;
+} 
