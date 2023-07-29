@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../ui/logo1.jpeg';
+import logo from '../ui/logo1.png';
 import homel from '../ui/home.svg';
 import listl from '../ui/list.svg';
 import searchl from '../ui/search.svg';
