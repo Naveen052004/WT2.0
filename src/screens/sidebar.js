@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../ui/logo.svg';
+import logo from '../ui/logo1.jpeg';
 import homel from '../ui/home.svg';
 import listl from '../ui/list.svg';
 import searchl from '../ui/search.svg';
@@ -29,7 +29,8 @@ function Sidebar() {
     return (
         <div className="sidebar fixed">
             <a href="#" className="logo bl">
-                <img src={logo} className="bl" alt='Text' />
+                <img src={logo} className="bl size" alt='Text' />
+                {/* <h1>MyApp</h1> */}
             </a>
             <ul className='nav'>
                 {navigation}
